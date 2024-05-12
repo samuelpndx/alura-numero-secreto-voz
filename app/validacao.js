@@ -11,6 +11,8 @@ function verificaSeOChutePossuiUmValorValido(chute){
         return
     }
 
+
+
     if (numero === numeroSecreto) {
         document.body.innerHTML = `
             <h2>Você acertou!</h2>
