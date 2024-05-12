@@ -1,5 +1,5 @@
 const menorValor = 1
-const maiorValor = 9
+const maiorValor = 1000
 
 numeroSecreto = gerarNumeroAleatorio() 
 
